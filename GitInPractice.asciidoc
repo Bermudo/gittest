@@ -1,2 +1,4 @@
 Hello, 
 this is newly added text as first edit.
+
+Another remote editing of the file to see how it is reflected in the local repository.
