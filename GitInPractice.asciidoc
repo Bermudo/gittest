@@ -3,3 +3,4 @@ this is newly added text as first edit.
 
 Two more remote editing steps of the file to see how it is reflected in the local repository.
 
+In-place editing of local file.
