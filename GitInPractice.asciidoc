@@ -5,3 +5,5 @@ Two more remote editing steps of the file to see how it is reflected in the loca
 Adding test while the remote copy is being edited.
 
 In-place editing of local file.
+
+Present state.
